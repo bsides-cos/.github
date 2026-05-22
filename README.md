@@ -1,6 +1,10 @@
-# Security B-Sides Colorado Springs
+# BSides Colorado Springs
 
 > **A free, community-organized information security unconference in Colorado Springs, CO**
+
+<p align="center">
+  <img src="../assets/BSides-logo-COS.png" alt="BSides Colorado Springs Logo" width="300">
+</p>
 
 [![Website](https://img.shields.io/badge/Website-bsidescos.org-blue)](https://www.bsidescos.org/)
 [![Email](https://img.shields.io/badge/Email-bsidescos%40gmail.com-red)](mailto:bsidescos@gmail.com)
