@@ -3,7 +3,7 @@
 > **A free, community-organized information security unconference in Colorado Springs, CO**
 
 <p align="center">
-  <img src="../assets/BSides-logo-COS.png" alt="BSides Colorado Springs Logo" width="300">
+  <img src="https://raw.githubusercontent.com/bsides-cos/.github/main/assets/BSides-logo-COS.png" alt="BSides Colorado Springs Logo" width="300">
 </p>
 
 [![Website](https://img.shields.io/badge/Website-bsidescos.org-blue)](https://www.bsidescos.org/)
